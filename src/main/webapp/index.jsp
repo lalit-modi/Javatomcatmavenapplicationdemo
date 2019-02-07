@@ -9,8 +9,7 @@
     <title>Reliance </title>
 
     <!-- Bootstrap core CSS -->
-	<!-- link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"></link -->
-   	<link rel="stylesheet" href="www.ril.com" crossorigin="anonymous"></link>
+	< link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"></link >
     <!-- Custom styles for this template -->
     <link href="" rel="stylesheet">
 	<style>
@@ -47,7 +46,7 @@
           <div class="row">
             <div class="col-sm-8 col-md-7 py-4">
               <h4 class="text-white">About</h4>
-              <p class="text-muted">change1</p>
+              <p class="text-muted">Click above for A*</p>
             </div>
             <div class="col-sm-4 offset-md-1 py-4">
               <h4 class="text-white">Contact</h4>
@@ -91,7 +90,7 @@
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="thumbnail.svg" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">change2</p>
+                  <p class="card-text">Click above for A+</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -106,7 +105,7 @@
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="thumbnail.svg" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">change3</p>
+                  <p class="card-text">Click above for A</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -121,7 +120,7 @@
               <div class="card mb-4 box-shadow">
                <img class="card-img-top" src="thumbnail.svg" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">change4</p>
+                  <p class="card-text">Click above for B</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
